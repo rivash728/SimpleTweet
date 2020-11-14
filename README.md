@@ -2,7 +2,7 @@
 
 **Simple Tweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **5** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -32,6 +32,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+<img src="Twitter_App_Demonstration.gif" width=250><br>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
